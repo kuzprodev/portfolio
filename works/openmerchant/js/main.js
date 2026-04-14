@@ -1,0 +1,1 @@
+$(function(){$("#menu").click(function(){return $(this).toggleClass("open"),$(".nav").slideToggle(""),!1})});
